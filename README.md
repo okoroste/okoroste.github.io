@@ -1,7 +1,4 @@
 <html>
- .verticalLine {
-  border-left: thick solid #ff0000;
-}
  <h1>STATISTICAL AND MACHINE LEARNING </h1><br>
   <h1>MODELS IN EPIDEMIOLOGY</h1> 
   <br>
