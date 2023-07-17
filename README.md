@@ -4,6 +4,5 @@
   <br>
   <h3>by Olga Korosteleva, CSULB</h3>
   <br>
-   
-     <img src="toc.png" style="width:300px;height:100px;"> 
+   <img src="toc.png" style="width:300px;height:100px;"> 
 </html>
