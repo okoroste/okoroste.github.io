@@ -3,5 +3,5 @@
   <br>
   <h3>by Olga Korosteleva, CSULB</h3>
   <br>
-    <img src="cover.png" >
+    <img src="cover.png" style="width:400px;height:500px;"> >
 </html>
