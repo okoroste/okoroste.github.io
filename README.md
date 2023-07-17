@@ -1,5 +1,5 @@
 <html>
- <h1>STATISTICAL AND MACHINE LEARNING </h1><br>
+ <h1>STATISTICAL AND MACHINE LEARNING </h1>
   <h1>MODELS IN EPIDEMIOLOGY</h1> 
   <br>
   <h3>by Olga Korosteleva, CSULB</h3>
