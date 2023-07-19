@@ -18,7 +18,7 @@
  <p>CHAPTER 7 Regression Analysis</p>
  <p>CHAPTER 8 Nonparametric Regression Analysis</p>
  <p>CHAPTER 9 Geospatial Analysis</p>
- <p style="text-indent: 40px;">9.1 Choropleth Maps</p>
+ <p class="indent">9.1 Choropleth Maps</p>
  <p> 9.2 Krigging</p>
  <p>9.3 Geographically-weighted Regressions</p>
  <p>CHAPTER 10 Compartmental Models</p>
