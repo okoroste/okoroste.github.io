@@ -43,4 +43,5 @@
  </blockquote>
   <p>CHAPTER 17 Recurrent Neural Network</p>
   <p>CHAPTER 18 Convolutional Neural Network</p>
+  <p>CHAPTER 19 Natural Language Processing</p>
 </html>
