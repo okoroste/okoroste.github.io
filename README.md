@@ -1,9 +1,5 @@
 <html>
- <style type="text/css">
-<!--
- .indent { margin-left: 40px; }
--->
-</style>
+
  <div>
  <h1>STATISTICAL AND MACHINE LEARNING MODELS IN EPIDEMIOLOGY</h1>
   <h3>by Olga Korosteleva,</h3>
@@ -23,8 +19,8 @@
  <p>CHAPTER 7 Regression Analysis</p>
  <p>CHAPTER 8 Nonparametric Regression Analysis</p>
  <p>CHAPTER 9 Geospatial Analysis</p>
- <p style="indent">9.1 Choropleth Maps</p>
- <p> 9.2 Krigging</p>
+ <p style="margin-left: 40px;">9.1 Choropleth Maps</p>
+ <p style="margin-left: 40px;"> 9.2 Krigging</p>
  <p>9.3 Geographically-weighted Regressions</p>
  <p>CHAPTER 10 Compartmental Models</p>
  <p>CHAPTER 11 Time-to-event Analysis</p>
