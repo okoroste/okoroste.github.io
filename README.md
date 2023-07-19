@@ -8,5 +8,5 @@
   <img src="cover.png" style="width:300px;height:400px;"> 
   </div>
   <br>
-     <img src="toc.png" style="width:400px;height:100px;"> 
+     <img src="toc.png" style="width:500px;height:100px;"> 
 </html>
