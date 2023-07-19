@@ -19,9 +19,11 @@
  <p>CHAPTER 7 Regression Analysis</p>
  <p>CHAPTER 8 Nonparametric Regression Analysis</p>
  <p>CHAPTER 9 Geospatial Analysis</p>
- <p style="margin-left: 40px;">9.1 Choropleth Maps</p>
- <p style="margin-left: 40px;"> 9.2 Krigging</p>
- <p>9.3 Geographically-weighted Regressions</p>
+  <blockquote>
+    <p>9.1 Choropleth Maps</p>
+    <p> 9.2 Krigging</p>
+    <p>9.3 Geographically-weighted Regressions</p>
+  <\blockquote>
  <p>CHAPTER 10 Compartmental Models</p>
  <p>CHAPTER 11 Time-to-event Analysis</p>
  <p>CHAPTER 12 Time Series Models</p>
