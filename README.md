@@ -41,5 +41,6 @@
   <p>16.2 Support Vector Machines Regression and Classification</p>
   <p>16.3 K-Nearest Neighbor Regression and Classification</p>
  </blockquote>
-  
+  <p>CHAPTER 17 Recurrent Neural Network</p>
+  <p>CHAPTER 18 Convolutional Neural Network</p>
 </html>
