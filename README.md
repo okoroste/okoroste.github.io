@@ -1,8 +1,8 @@
 <html>
  <div>
- <li></li><h1>STATISTICAL AND MACHINE LEARNING MODELS IN EPIDEMIOLOGY</h1></li>
-  <li></li><h3>by Olga Korosteleva,</h3></li>
-  <li></li><h3>California State University, Long Beach</h3></li>
+ <h1>STATISTICAL AND MACHINE LEARNING MODELS IN EPIDEMIOLOGY</h1>
+  <h3>by Olga Korosteleva,</h3>
+  <h3>California State University, Long Beach</h3>
  </div>
    <div>
   <img src="cover.png" style="width:300px;height:400px;"> 
