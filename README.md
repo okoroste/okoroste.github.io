@@ -37,7 +37,8 @@
  </blockquote>
  <p>CHAPTER 8 Nonparametric Regression Analysis</p>
  <blockquote>
-  <p>8.1 Nonparametric Model for Continuous Response Variable</p>
+   <p><a href="8_1_NonparametricRegressionContinuousResponse.pdf">8.1 Nonparametric Regression for Continuous Response</a><br>ONE-PREDICTOR EXAMPLE:&nbsp;<a href="Loess1Predictor.sas">SAS_CODE.SAS</a>&nbsp;&nbsp;&nbsp;<a href="Loess1Predictor.R">R_CODE.R</a>
+ &nbsp;&nbsp;&nbsp;TWO-PREDICTOR EXAMPLE:&nbsp;<a href="LDL_data.csv">DATA_SET.CSV</a>&nbsp;&nbsp;&nbsp;<a href="Loess2Predictors.sas">SAS_CODE.SAS</a>&nbsp;&nbsp;&nbsp;<a href="Loess2Predictors.R">R_CODE.R</a> </p>
   <p>8.2 Nonparametric Binary Logistic Regression Model</p>
   <p>8.3 Nonparametric Poisson Regression Model</p>
  </blockquote>
