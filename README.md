@@ -6,7 +6,7 @@
   <h3>California State University, Long Beach</h3>
  </div>
    <div>
-  <img src="cover2.png" style="width:300px;height:320px;"> 
+  <img src="cover2.png" style="width:300px;height:350px;"> 
   </div>
   <br>
      <img src="toc.png" style="width:500px;height:100px;"> 
