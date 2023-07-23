@@ -15,8 +15,8 @@
  <p>CHAPTER 3 Graphical Presentation</p>
  <p>CHAPTER 4 Confidence Intervals and Hypotheses Testing</p>
  <blockquote>
-  <p>4.1 Binomial Exact Test and Condence Interval for Prevalence Proportion</p>
-  <p>4.2 Poisson Exact Test and Condence Interval for Incidence Rate</p>
+  <p>4.1 Binomial Exact Test and Confidence Interval for Prevalence Proportion</p>
+  <p>4.2 Poisson Exact Test and Confidence Interval for Incidence Rate</p>
   <p>4.3 Condence Intervals for Relative Risk, Odds Ratio, and Incidence Rate Ratio</p>
  </blockquote>
  <p>CHAPTER 5 Analysis of Variance</p>
@@ -53,17 +53,17 @@
  </blockquote>
  <p>CHAPTER 11 Time-to-event Analysis</p>
  <blockquote>
-  <p>The Kaplan-Meier Estimator and Curve</p>
-  <p>The Log-rank Test</p>
-  <p>The Cox Proportional Hazards Model</p>
+  <p>11.1 The Kaplan-Meier Estimator and Curve</p>
+  <p>11.2 The Log-rank Test</p>
+  <p>11.3 The Cox Proportional Hazards Model</p>
  </blockquote>
  <p>CHAPTER 12 Time Series Models</p>
  <p>CHAPTER 13 Propensity Score Matching</p>
  <p>CHAPTER 14 Structural Equation Modeling</p>
  <blockquote>
-  <p>Path Analysis</p>
-  <p>Mediation Analysis</p>
-  <p>Confirmatory Factor Analysis</p>
+  <p>14.1 Path Analysis</p>
+  <p>14.2 Mediation Analysis</p>
+  <p>14.3 Confirmatory Factor Analysis</p>
  </blockquote>
  <p> CHAPTER 15 Statistical Machine Learning Models</p>
   <blockquote>
