@@ -31,7 +31,7 @@
   <p><a href="7_2_PoissonRegressionCount.pdf">7.2 Poisson Regression for Count Data</a>&nbsp;&nbsp;&nbsp;<a href="hospital_stay.csv">DATA_SET.CSV</a>&nbsp;&nbsp;&nbsp;<a href="PoissonRegressionCount.sas">SAS_CODE.SAS</a>&nbsp;&nbsp;&nbsp;
    <a href="PoissonRegressionCount.R">R_CODE.R</a></p>
   <p><a href="7_3_PoissonRegressionIncidenceRate.pdf">7.3 Poisson Regression for Incidence Rate</a>&nbsp;&nbsp;&nbsp;<a href="thrombosis_data.csv">DATA_SET.CSV</a>&nbsp;&nbsp;&nbsp;<a href="PoissonRegressionIncidenceRate.sas">SAS_CODE.SAS</a>&nbsp;&nbsp;&nbsp;<a href="PoissonRegressionIncidenceRate.R">R_CODE.R</a></p>
-  <p>7.4 Mixed-effects Regression Model for Normally Distributed Response</p>
+  <p><a href="7_4_MixedEffectsRegressionNormal.pdf">7.4 Mixed-effects Regression Model for Normally Distributed Response</a>&nbsp;&nbsp;&nbsp;<a href="LDLdata.csv">DATA_SET.CSV</a>&nbsp;&nbsp;&nbsp;<a href="MixedEffectsRegressionNormal.sas">SAS_CODE.SAS</a>&nbsp;&nbsp;&nbsp;<a href="MixedEffectsRegressionNormal.R">R_CODE.R</a></p>
   <p>7.5 Generalized Mixed-effects Regression Models for Binary and Count Responses</p>
  </blockquote>
  <p>CHAPTER 8 Nonparametric Regression Analysis</p>
