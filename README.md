@@ -27,7 +27,7 @@
  <p>CHAPTER 6 Nonparametric Statistical Tests</p>
  <p>CHAPTER 7 Regression Analysis</p>
  <blockquote>
-  <p><a href="7_1_binarylogisticregression.pdf">7.1 Binary Logistic Regression</a>&nbsp;&nbsp;&nbsp;<a href="pneumonia_data.csv">DATA SET.CSV</a>&nbsp;&nbsp;&nbsp;<a href="BinaryLogisticRegression.sas">SAS CODE.SAS</a>&nbsp;&nbsp;&nbsp;<a href="BinaryLogisticRegression.R">R CODE.R</a></p>
+  <p><a href="binarylogisticregression.pdf">7.1 Binary Logistic Regression</a>&nbsp;&nbsp;&nbsp;<a href="pneumonia_data.csv">DATA_SET.CSV</a>&nbsp;&nbsp;&nbsp;<a href="BinaryLogisticRegression.sas">SAS_CODE.SAS</a>&nbsp;&nbsp;&nbsp;<a href="BinaryLogisticRegression.R">R_CODE.R</a></p>
   <p>7.2 Poisson Regression for Count Data</p>
   <p>7.3 Poisson Regression for Incidence Rate</p>
   <p>7.4 Mixed-effects Regression Model for Normally Distributed Response</p>
