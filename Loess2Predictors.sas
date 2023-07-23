@@ -1,4 +1,4 @@
-proc import out=ldldata datafile="C:/Users/000110888/Desktop/LDLdata.csv"
+proc import out=ldldata datafile="./LDLdata.csv"
 dbms=csv replace;
 
 /*creating long-form data*/
