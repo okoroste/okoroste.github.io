@@ -14,10 +14,31 @@
  <p>CHAPTER 2  Measurements of Disease Occurrence</p>
  <p>CHAPTER 3 Graphical Presentation</p>
  <p>CHAPTER 4 Confidence Intervals and Hypotheses Testing</p>
+ <blockquote>
+  <p>4.1 Binomial Exact Test and Condence Interval for Prevalence Proportion</p>
+  <p>4.2 Poisson Exact Test and Condence Interval for Incidence Rate</p>
+  <p>4.3 Condence Intervals for Relative Risk, Odds Ratio, and Incidence Rate Ratio</p>
+ </blockquote>
  <p>CHAPTER 5 Analysis of Variance</p>
+ <blockquote>
+  <p>5.1 One-way ANOVA</p>
+  <p>5.2 Two-way ANOVA</p>
+ </blockquote>
  <p>CHAPTER 6 Nonparametric Statistical Tests</p>
  <p>CHAPTER 7 Regression Analysis</p>
+ <blockquote>
+  <p>7.1 Binary Logistic Regression</p>
+  <p>7.2 Poisson Regression for Count Data</p>
+  <p>7.3 Poisson Regression for Incidence Rate</p>
+  <p>7.4 Mixed-effects Regression Model for Normally Distributed Response</p>
+  <p>7.5 Generalized Mixed-effects Regression Models for Binary and Count Responses</p>
+ </blockquote>
  <p>CHAPTER 8 Nonparametric Regression Analysis</p>
+ <blockquote>
+  <p>8.1 Nonparametric Model for Continuous Response Variable</p>
+  <p>8.2 Nonparametric Binary Logistic Regression Model</p>
+  <p>8.3 Nonparametric Poisson Regression Model</p>
+ </blockquote>
  <p>CHAPTER 9 Geospatial Analysis</p>
   <blockquote>
     <p>9.1 Choropleth Maps</p>
@@ -25,13 +46,29 @@
     <p>9.3 Geographically-weighted Regressions</p>
   </blockquote>
  <p>CHAPTER 10 Compartmental Models</p>
+ <blockquote>
+  <p>10.1 The Deterministic Susceptible-Infected-Removed (SIR) Epidemic Model</p>
+  <p>10.2 The Binomial SIR Epidemic Model</p>
+  <p>10.3 Parameter Estimation in the Binomial SIR Model</p>
+ </blockquote>
  <p>CHAPTER 11 Time-to-event Analysis</p>
+ <blockquote>
+  <p>The Kaplan-Meier Estimator and Curve</p>
+  <p>The Log-rank Test</p>
+  <p>The Cox Proportional Hazards Model</p>
+ </blockquote>
  <p>CHAPTER 12 Time Series Models</p>
  <p>CHAPTER 13 Propensity Score Matching</p>
  <p>CHAPTER 14 Structural Equation Modeling</p>
+ <blockquote>
+  <p>Path Analysis</p>
+  <p>Mediation Analysis</p>
+  <p>Confirmatory Factor Analysis</p>
+ </blockquote>
  <p> CHAPTER 15 Statistical Machine Learning Models</p>
   <blockquote>
-  <p>15.1 Decision Tree and Random Forest Regression and Classification</p>
+  <p>15.1 Decision Tree Regression and Classification</p>
+  <p>15.2 Random Forest Regression and Classification</p>
   <p>15.2 Naive Bayes Classification</p>
   <p>15.3 Artificial Neural Network Regression and Classification</p>
  </blockquote>
