@@ -1,5 +1,4 @@
-LDL.data<- read.csv(file="C:/Users/000110888/Desktop/LDLdata.csv", 
-header=TRUE, sep=",")
+LDL.data<- read.csv(file="./LDLdata.csv", header=TRUE, sep=",")
 
 #creating long-form data set
 library(reshape2)
