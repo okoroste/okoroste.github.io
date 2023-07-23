@@ -17,7 +17,7 @@
  <blockquote>
   <p>4.1 Binomial Exact Test and Confidence Interval for Prevalence Proportion</p>
   <p>4.2 Poisson Exact Test and Confidence Interval for Incidence Rate</p>
-  <p>4.3 Condence Intervals for Relative Risk, Odds Ratio, and Incidence Rate Ratio</p>
+  <p>4.3 Confidence Intervals for Relative Risk, Odds Ratio, and Incidence Rate Ratio</p>
  </blockquote>
  <p>CHAPTER 5 Analysis of Variance</p>
  <blockquote>
