@@ -25,7 +25,7 @@
   <p>5.2 Two-way ANOVA</p>
  </blockquote>
  <p>CHAPTER 6 Nonparametric Statistical Tests</p>
- <p>CHAPTER 7 Regression Analysis</p>
+ <p>CHAPTER 7 REGRESSION ANALYSIS</p>
  <blockquote>
   <p><a href="7_1_BinaryLogisticRegression.pdf">7.1 Binary Logistic Regression</a>&nbsp;&nbsp;&nbsp;<a href="pneumonia_data.csv">DATA_SET.CSV</a>&nbsp;&nbsp;&nbsp;<a href="BinaryLogisticRegression.sas">SAS_CODE.SAS</a>&nbsp;&nbsp;&nbsp;<a href="BinaryLogisticRegression.R">R_CODE.R</a></p>
   <p><a href="7_2_PoissonRegressionCount.pdf">7.2 Poisson Regression for Count Data</a>&nbsp;&nbsp;&nbsp;<a href="hospital_stay.csv">DATA_SET.CSV</a>&nbsp;&nbsp;&nbsp;<a href="PoissonRegressionCount.sas">SAS_CODE.SAS</a>&nbsp;&nbsp;&nbsp;
@@ -35,7 +35,7 @@
   <p><a href="7_5_MixedEffectsLogisticPoissonRegressions.pdf">7.5 Mixed-effects Logistic and Poisson Regression Models</a><br>LOGISTIC:&nbsp;<a href="respiratory_infection.csv">DATA_SET.CSV</a>&nbsp;&nbsp;&nbsp;<a href="MixedEffectsLogisticRegression.sas">SAS_CODE.SAS</a>&nbsp;&nbsp;&nbsp;<a href="MixedEffectsLogisticRegression.R">R_CODE.R</a>
  &nbsp;&nbsp;&nbsp;POISSON:&nbsp;<a href="skin_cancer_data.csv">DATA_SET.CSV</a>&nbsp;&nbsp;&nbsp;<a href="MixedEffectsPoissonRegression.sas">SAS_CODE.SAS</a>&nbsp;&nbsp;&nbsp;<a href="MixedEffectsPoissonRegression.R">R_CODE.R</a> </p>
  </blockquote>
- <p>CHAPTER 8 Nonparametric Regression Analysis</p>
+ <p>CHAPTER 8 NONPARAMETRIC REGRESSION ANALYSIS</p>
  <blockquote>
    <p><a href="8_1_NonparametricRegressionContinuousResponse.pdf">8.1 Nonparametric Regression for Continuous Response</a><br>ONE-PREDICTOR EXAMPLE:&nbsp;<a href="Loess1Predictor.sas">SAS_CODE.SAS</a>&nbsp;&nbsp;&nbsp;<a href="Loess1Predictor.R">R_CODE.R</a>
  &nbsp;&nbsp;&nbsp;TWO-PREDICTOR EXAMPLE:&nbsp;<a href="LDL_data.csv">DATA_SET.CSV</a>&nbsp;&nbsp;&nbsp;<a href="Loess2Predictors.sas">SAS_CODE.SAS</a>&nbsp;&nbsp;&nbsp;<a href="Loess2Predictors.R">R_CODE.R</a> </p>
