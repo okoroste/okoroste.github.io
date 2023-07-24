@@ -55,9 +55,10 @@
     <p>9.2 Krigging</p>
     <p>9.3 Geographically-weighted Regressions</p>
   </blockquote>
- <p>CHAPTER 10 Compartmental Models</p>
+ <p>CHAPTER 10 COMPARTMENTAL MODELS</p>
  <blockquote>
-  <p>10.1 The Deterministic Susceptible-Infected-Removed (SIR) Epidemic Model</p>
+  <p><a href="10_1_DeterministicSIRModel.pdf">10.1 The Deterministic Susceptible-Infected-Removed (SIR) Epidemic Model</a>&nbsp;&nbsp;&nbsp;<a href="DeterministicSIRModel.sas">SAS_CODE.SAS</a>
+   &nbsp;&nbsp;&nbsp;<a href="DeterministicSIRModel.R">R_CODE.R</a></p>
   <p>10.2 The Binomial SIR Epidemic Model</p>
   <p>10.3 Parameter Estimation in the Binomial SIR Model</p>
  </blockquote>
