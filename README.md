@@ -39,8 +39,8 @@
  <blockquote>
    <p><a href="8_1_NonparametricRegressionContinuousResponse.pdf">8.1 Nonparametric Regression for Continuous Response</a><br>ONE-PREDICTOR EXAMPLE:&nbsp;<a href="Loess1Predictor.sas">SAS_CODE.SAS</a>&nbsp;&nbsp;&nbsp;<a href="Loess1Predictor.R">R_CODE.R</a>
  &nbsp;&nbsp;&nbsp;TWO-PREDICTOR EXAMPLE:&nbsp;<a href="LDL_data.csv">DATA_SET.CSV</a>&nbsp;&nbsp;&nbsp;<a href="Loess2Predictors.sas">SAS_CODE.SAS</a>&nbsp;&nbsp;&nbsp;<a href="Loess2Predictors.R">R_CODE.R</a> </p>
-  <p>8.2 Nonparametric Logistic Regression</p>
-  <p>8.3 Nonparametric Poisson Regression</p>
+  <p><a href="8_2_NonparametricLogisticRegression.pdf">8.2 Nonparametric Logistic Regression</a>&nbsp;&nbsp;&nbsp;<a href="respiratory_infection.csv">DATA_SET.CSV</a>&nbsp;&nbsp;&nbsp;<a href="NonparametricLogisticRegression.sas">SAS_CODE.SAS</a>&nbsp;&nbsp;&nbsp;<a href="NonparametricLogisticRegression.R">R_CODE.R</a></p>
+   <p><a href="8_3_NonparametricPoissonRegression.pdf">8.3 Nonparametric Poisson Regression</a>&nbsp;&nbsp;&nbsp;<a href="skin_cancer_data.csv">DATA_SET.CSV</a>&nbsp;&nbsp;&nbsp;<a href="NonparametricPoissonRegression.sas">SAS_CODE.SAS</a>&nbsp;&nbsp;&nbsp;<a href="NonparametricPoissonRegression.R">R_CODE.R</a></p>
  </blockquote>
  <p>CHAPTER 9 Geospatial Analysis</p>
   <blockquote>
