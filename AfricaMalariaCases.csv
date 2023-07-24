@@ -1,0 +1,55 @@
+CountryName,Country,ID,Ncases
+Algeria,DZA,125,0
+Angola,AGO,141,3874892
+Benin,BEN,311,1774022
+Botswana,BWA,210,1900
+Burkina Faso,BFA,927,10255415
+Burundi,BDI,252,8453810
+Cabo Verde,CPV,264,423
+Cameroon,CMR,257,1317371
+Central African Republic,CAF,269,383309
+Chad,TCD,273,1962372
+Comoros,COM,286,3230
+"Congo, Dem. Rep.",COD,291,16793002
+"Congo, Rep.",COG,290,127939
+Cote d'Ivoire,CIV,485,3475953
+Djibouti,DJI,317,14671
+"Egypt, Arab Rep.",EGY,922,0
+Equatorial Guinea,GNQ,332,15725
+Eritrea,ERI,327,54005
+Eswatini,SWZ,847,724
+Ethiopia,ETH,335,1530739
+Gabon,GAB,388,35244
+"Gambia, The",GMB,389,72412
+Ghana,GHA,396,5584185
+Guinea,GIN,417,1335323
+Guinea-Bissau,GNB,737,92846
+Kenya,KEN,505,3419883
+Lesotho,LSO,543,
+Liberia,LBR,545,1783968
+Libya,LBY,550,0
+Madagascar,MDG,575,935229
+Malawi,MWI,577,4901344
+Mali,MLI,585,2097797
+Mauritania,MRT,592,20105
+Mauritius,MUS,593,
+Morocco,MAR,610,0
+Mozambique,MOZ,615,9892601
+Namibia,NAM,821,54268
+Niger,NER,667,2761268
+Nigeria,NGA,670,11639713
+Rwanda,RWA,758,4413473
+Sao Tome and Principe,STP,783,2239
+Senegal,SEN,787,395706
+Seychelles,SYC,788,
+Sierra Leone,SLE,790,1651236
+Somalia,SOM,800,35138
+South Africa,ZAF,801,22517
+South Sudan,SSD,,1488005
+Sudan,SDN,835,720879
+Tanzania,TZA,865,5354819
+Togo,TGO,883,1755577
+Tunisia,TUN,890,
+Uganda,UGA,910,11667831
+Zambia,ZMB,990,5505639
+Zimbabwe,ZWE,818,467508

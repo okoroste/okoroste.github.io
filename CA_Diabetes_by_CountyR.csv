@@ -1,0 +1,59 @@
+county,fips,percent
+Alameda,6001,7
+Alpine,6003,7
+Amador,6005,17
+Butte,6007,10
+Calaveras,6009,11
+Colusa,6011,16
+Contra Costa,6013,9
+Del Norte,6015,17
+El Dorado,6017,8
+Fresno,6019,10
+Glenn,6021,11
+Humboldt,6023,10
+Imperial,6025,9
+Inyo,6027,12
+Kern,6029,10
+Kings,6031,13
+Lake,6033,11
+Lassen,6035,15
+Los Angeles,6037,9
+Madera,6039,12
+Marin,6041,8
+Mariposa,6043,8
+Mendocino,6045,11
+Merced,6047,13
+Modoc,6049,12
+Mono,6051,11
+Monterey,6053,9
+Napa,6055,10
+Nevada,6057,6
+Orange,6059,9
+Placer,6061,7
+Plumas,6063,7
+Riverside,6065,10
+Sacramento,6067,9
+San Benito,6069,10
+San Bernardino,6071,10
+San Diego,6073,8
+San Francisco,6075,6
+San Joaquin,6077,10
+San Luis Obispo,6079,9
+San Mateo,6081,8
+Santa Barbara,6083,8
+Santa Clara,6085,9
+Santa Cruz,6087,6
+Shasta,6089,12
+Sierra,6091,7
+Siskiyou,6093,10
+Solano,6095,9
+Sonoma,6097,8
+Stanislaus,6099,10
+Sutter,6101,13
+Tehama,6103,11
+Trinity,6105,10
+Tulare,6107,11
+Tuolumne,6109,8
+Ventura,6111,9
+Yolo,6113,8
+Yuba,6115,13

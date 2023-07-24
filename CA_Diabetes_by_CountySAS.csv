@@ -1,0 +1,59 @@
+countyname,county,percent
+Alameda,1,7
+Alpine,3,7
+Amador,5,17
+Butte,7,10
+Calaveras,9,11
+Colusa,11,16
+Contra Costa,13,9
+Del Norte,15,17
+El Dorado,17,8
+Fresno,19,10
+Glenn,21,11
+Humboldt,23,10
+Imperial,25,9
+Inyo,27,12
+Kern,29,10
+Kings,31,13
+Lake,33,11
+Lassen,35,15
+Los Angeles,37,9
+Madera,39,12
+Marin,41,8
+Mariposa,43,8
+Mendocino,45,11
+Merced,47,13
+Modoc,49,12
+Mono,51,11
+Monterey,53,9
+Napa,55,10
+Nevada,57,6
+Orange,59,9
+Placer,61,7
+Plumas,63,7
+Riverside,65,10
+Sacramento,67,9
+San Benito,69,10
+San Bernardino,71,10
+San Diego,73,8
+San Francisco,75,6
+San Joaquin,77,10
+San Luis Obispo,79,9
+San Mateo,81,8
+Santa Barbara,83,8
+Santa Clara,85,9
+Santa Cruz,87,6
+Shasta,89,12
+Sierra,91,7
+Siskiyou,93,10
+Solano,95,9
+Sonoma,97,8
+Stanislaus,99,10
+Sutter,101,13
+Tehama,103,11
+Trinity,105,10
+Tulare,107,11
+Tuolumne,109,8
+Ventura,111,9
+Yolo,113,8
+Yuba,115,13
