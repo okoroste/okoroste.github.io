@@ -62,15 +62,14 @@
     <p><a href="10_2_BinomialSIREpidemicModel.pdf">10.2 Binomial SIR Epidemic Model</a>
      &nbsp;&nbsp;&nbsp;<a href="BinomialSIREpidemicModel.sas">SAS_CODE.SAS</a>
    &nbsp;&nbsp;&nbsp;<a href="BinomialSIREpidemicModel.R">R_CODE.R</a></p>
-      <p><a href="10_3_BinomialSIRModelParameterEstimation.pdf">10.3 Parameter Estimation in the Binomial SIR 
-       Epidemic Model</a>&nbsp;&nbsp;&nbsp;<a href="BinomialSIRModelParameterEstimation.sas">SAS_CODE.SAS</a>
+      <p><a href="10_3_BinomialSIRModelParameterEstimation.pdf">10.3 Parameter Estimation in the Binomial SIR Epidemic Model</a>&nbsp;&nbsp;&nbsp;<a href="BinomialSIRModelParameterEstimation.sas">SAS_CODE.SAS</a>
    &nbsp;&nbsp;&nbsp;<a href="BinomialSIRModelParameterEstimation.R">R_CODE.R</a></p>
  </blockquote>
- <p>CHAPTER 11 Time-to-event Analysis</p>
+ <p>CHAPTER 11 SURVIVAL ANALYSIS</p>
  <blockquote>
-  <p>11.1 The Kaplan-Meier Estimator and Curve</p>
-  <p>11.2 The Log-rank Test</p>
-  <p>11.3 The Cox Proportional Hazards Model</p>
+  <p><a href="11_1_KMEstimatorCurve.pdf">11.1 Kaplan-Meier Estimator and Curve</a>&nbsp;&nbsp;&nbsp;<a href="KMEstimatorCurve.sas">SAS_CODE.SAS</a>&nbsp;&nbsp;&nbsp;<a href="KMEstimatorCurve.R">R_CODE.R</a></p>
+  <p>11.2 Log-rank Test</p>
+  <p>11.3 Cox Proportional Hazards Model</p>
  </blockquote>
  <p>CHAPTER 12 Time Series Models</p>
  <p>CHAPTER 13 Propensity Score Matching</p>
