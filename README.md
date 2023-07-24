@@ -68,7 +68,7 @@
  <p>CHAPTER 11 SURVIVAL ANALYSIS</p>
  <blockquote>
   <p><a href="11_1_KMEstimatorCurve.pdf">11.1 Kaplan-Meier Estimator and Curve</a>&nbsp;&nbsp;&nbsp;<a href="KMEstimatorCurve.sas">SAS_CODE.SAS</a>&nbsp;&nbsp;&nbsp;<a href="KMEstimatorCurve.R">R_CODE.R</a></p>
-    <p><a href="11_2_LogRankTest.pdf">11.2 Log-rank Test</a>&nbsp;&nbsp;&nbsp;PNEUMONIA EXAMPLE:&nbsp;<a href="LogRankTestPneumonia.sas">SAS_CODE.SAS</a>&nbsp;&nbsp;&nbsp;<a href="LogRankTestPneumonia.R">R_CODE.R</a>&nbsp;&nbsp;&nbsp;NASOPHARYNGEAL CANCER EXAMPLE:&nbsp;<a href="nasopharyngeal_cancer_data.csv">DATA_SET.CSV&nbsp;&nbsp;&nbsp;<a href="LogRankTestNasopharyngealCancer.sas">SAS_CODE.SAS</a>&nbsp;&nbsp;&nbsp;<a href="LogRankTestNasopharyngealCancer.R">R_CODE.R</a></p>
+    <p><a href="11_2_LogRankTest.pdf">11.2 Log-rank Test</a>&nbsp;&nbsp;&nbsp;PNEUMONIA EXAMPLE:&nbsp;<a href="LogRankTestPneumonia.sas">SAS_CODE.SAS</a>&nbsp;&nbsp;&nbsp;<a href="LogRankTestPneumonia.R">R_CODE.R</a>&nbsp;&nbsp;&nbsp;NASOPHARYNGEAL CANCER EXAMPLE:&nbsp;<a href="nasopharyngeal_cancer_data.csv">DATA_SET.CSV</a>&nbsp;&nbsp;&nbsp;<a href="LogRankTestNasopharyngealCancer.sas">SAS_CODE.SAS</a>&nbsp;&nbsp;&nbsp;<a href="LogRankTestNasopharyngealCancer.R">R_CODE.R</a></p>
   <p>11.3 Cox Proportional Hazards Model</p>
  </blockquote>
  <p>CHAPTER 12 Time Series Models</p>
