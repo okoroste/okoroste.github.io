@@ -1,6 +1,5 @@
 proc import out=cancer_data 
-datafile="C:/Users/000110888/Desktop/skin_cancer_data.csv"
-dbms=csv replace;
+datafile="./skin_cancer_data.csv" dbms=csv replace;
 
 /*specifying data for prediction*/
 data point4pred;

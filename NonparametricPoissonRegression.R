@@ -1,5 +1,4 @@
-cancer.data<- read.csv(file="C:/Users/000110888/Desktop/skin_cancer_data.csv", 
-header=TRUE, sep=",")
+cancer.data<- read.csv(file="./skin_cancer_data.csv", header=TRUE, sep=",")
 
 #specifying reference category
 cancer.data$group.rel<- relevel(as.factor(cancer.data$group), ref="Tx")
