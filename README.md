@@ -42,9 +42,16 @@
   <p><a href="8_2_NonparametricLogisticRegression.pdf">8.2 Nonparametric Logistic Regression</a>&nbsp;&nbsp;&nbsp;<a href="respiratory_infection.csv">DATA_SET.CSV</a>&nbsp;&nbsp;&nbsp;<a href="NonparametricLogisticRegression.sas">SAS_CODE.SAS</a>&nbsp;&nbsp;&nbsp;<a href="NonparametricLogisticRegression.R">R_CODE.R</a></p>
    <p><a href="8_3_NonparametricPoissonRegression.pdf">8.3 Nonparametric Poisson Regression</a>&nbsp;&nbsp;&nbsp;<a href="skin_cancer_data.csv">DATA_SET.CSV</a>&nbsp;&nbsp;&nbsp;<a href="NonparametricPoissonRegression.sas">SAS_CODE.SAS</a>&nbsp;&nbsp;&nbsp;<a href="NonparametricPoissonRegression.R">R_CODE.R</a></p>
  </blockquote>
- <p>CHAPTER 9 Geospatial Analysis</p>
+ <p>CHAPTER 9 GEOSPATIAL ANALYSIS</p>
   <blockquote>
-    <p>9.1 Choropleth Maps</p>
+   <p><a href="9_1_ChoroplethMaps.pdf">9.1 Choropleth Maps</a>&nbsp;&nbsp;&nbsp;DATASETS FOR SAS:&nbsp;
+    <a href="WestNileVirusCasesSAS.csv">1.CSV</a>&nbsp;&nbsp;&nbsp; 
+    <a href="CA_Diabetes_by_CountySAS.csv">2.CSV</a>&nbsp;&nbsp;&nbsp; 
+    <a href="AfricaMalariaCases.csv">3.CSV</a><br>
+    DATASETS FOR R:&nbsp;
+    <a href="WestNileVirusCasesR.csv">1.CSV</a>&nbsp;&nbsp;&nbsp; 
+    <a href="CA_Diabetes_by_CountyR.csv">2.CSV</a>&nbsp;&nbsp;&nbsp; 
+    <a href="AfricaMalariaCases.csv">3.CSV</a>&nbsp;&nbsp;&nbsp;<a href="ChoroplethMaps.sas">SAS_CODE.SAS</a>&nbsp;&nbsp;&nbsp;<a href="ChoroplethMaps.R">R_CODE.R</a></p>
     <p>9.2 Krigging</p>
     <p>9.3 Geographically-weighted Regressions</p>
   </blockquote>
