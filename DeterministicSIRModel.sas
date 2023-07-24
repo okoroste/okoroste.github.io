@@ -3,9 +3,6 @@
 %let gamma=0.2;
 %let t=30;
 
-/* Or as a macro */
-
-%macro SIRmodel(N,beta,gamma,t);
 data SIR;
 S=&N-1;
 I=1;
@@ -27,6 +24,4 @@ proc gplot data=SIR;
 plot (S I R)*time/overlay legend vaxis=axis;
 run;
 
-%mend;
-%SIRmodel(1000,0.7,0.2,30)
 
