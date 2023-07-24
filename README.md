@@ -62,7 +62,9 @@
     <p><a href="10_2_BinomialSIREpidemicModel.pdf">10.2 Binomial SIR Epidemic Model</a>
      &nbsp;&nbsp;&nbsp;<a href="BinomialSIREpidemicModel.sas">SAS_CODE.SAS</a>
    &nbsp;&nbsp;&nbsp;<a href="BinomialSIREpidemicModel.R">R_CODE.R</a></p>
-   <p>10.3 Parameter Estimation in the Binomial SIR Model</p>
+      <p><a href="10_3_BinomialSIRModelParameterEstimation.pdf">10.3 Parameter Estimation in the Binomial SIR 
+       Epidemic Model</a>&nbsp;&nbsp;&nbsp;<a href="BinomialSIRModelParameterEstimation.sas">SAS_CODE.SAS</a>
+   &nbsp;&nbsp;&nbsp;<a href="BinomialSIRModelParameterEstimation.R">R_CODE.R</a></p>
  </blockquote>
  <p>CHAPTER 11 Time-to-event Analysis</p>
  <blockquote>
