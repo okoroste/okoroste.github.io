@@ -9,7 +9,7 @@
   <img src="cover.png" style="width:300px;height:370px;"> 
   </div>
   <br>
-     <img src="toc.png" style="width:500px;height:100px;"> 
+     <img src="toc.png" style="width:550px;height:100px;"> 
  <p>CHAPTER 1  Introduction: Basic notions, definitions, notation, history</p>
  <p>CHAPTER 2  Measurements of Disease Occurrence</p>
  <p>CHAPTER 3 Graphical Presentation</p>
