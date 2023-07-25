@@ -10,8 +10,8 @@
   </div>
   <br>
      <img src="toc.png" style="width:550px;height:100px;"> 
- <p>CHAPTER 1  Introduction: Basic notions, definitions, notation, history</p>
- <p>CHAPTER 2  Measurements of Disease Occurrence</p>
+ <p>CHAPTER 1  Basic Notions in Epidemiology</p>
+ <p>CHAPTER 2  Key Figures in Early Epidemiology</p>
  <p>CHAPTER 3 GRAPHICAL PRESENTATION</p>
  <blockquote>
   <p>3.1 Bar Graph</p>
