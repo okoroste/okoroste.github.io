@@ -1,4 +1,4 @@
-proc import out=diabetes2 datafile="./diabetes2.csv" dbms=csv replace;
+proc import out=diabetes2 datafile="./diabetes_data2.csv" dbms=csv replace;
 run;
 
 title 'Histogram for Percent of Adults with Diagnosed Diabetes in California Counties';

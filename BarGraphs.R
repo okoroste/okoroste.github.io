@@ -1,4 +1,4 @@
-diabetes1<- read.csv(file="./diabetes1.csv", header=TRUE, sep=",")
+diabetes1<- read.csv(file="./diabetes_data1.csv", header=TRUE, sep=",")
 
 table1 <- xtabs(percent ~ gender+race, data=diabetes1) 
 table2 <- xtabs(percent ~ race+gender, data=diabetes1) 

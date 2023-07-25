@@ -1,4 +1,4 @@
-proc import ougt=diabetes1 datafile="./diabetes1.csv" dbms=csv replace;
+proc import ougt=diabetes1 datafile="./diabetes_data1.csv" dbms=csv replace;
 run;
 
 title 'Side-by-side Bar Graph for Prevalence of Diagnosed Diabetes 
