@@ -15,7 +15,7 @@
  <p>CHAPTER 3 GRAPHICAL PRESENTATION</p>
  <blockquote>
    <p><a href="3_1_BarGraphs.pdf">3.1 Bar Graphs</a>&nbsp;&nbsp;&nbsp;<a href="diabetes_data1.csv">DATA_SET.CSV</a>&nbsp;&nbsp;&nbsp;<a href="BarGraphs.sas">SAS_CODE.SAS</a>&nbsp;&nbsp;&nbsp;<a href="BarGraphs.R">R_CODE.R</a></p>
-   <p><a href="3_2_Histrogram.pdf">3.2 Histrogram</a>&nbsp;&nbsp;&nbsp;<a href="diabetes_data2.csv">DATA_SET.CSV</a>&nbsp;&nbsp;&nbsp;<a href="Histogram.sas">SAS_CODE.SAS</a>&nbsp;&nbsp;&nbsp;<a href="Histogram.R">R_CODE.R</a></p>
+   <p><a href="3_2_Histogram.pdf">3.2 Histogram</a>&nbsp;&nbsp;&nbsp;<a href="diabetes_data2.csv">DATA_SET.CSV</a>&nbsp;&nbsp;&nbsp;<a href="Histogram.sas">SAS_CODE.SAS</a>&nbsp;&nbsp;&nbsp;<a href="Histogram.R">R_CODE.R</a></p>
   <p>3.3 Time Series Plot</p>
  </blockquote>
  <p>CHAPTER 4 CONFIDENCE INTERVALS AND HYPOTHESES TESTING</p>
