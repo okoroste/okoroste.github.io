@@ -1,4 +1,4 @@
-proc import out=TBdata datafile="./TB_Symptoms_Data.csv"
+proc import out=TBdata datafile="./TB_symptoms_data.csv"
 dbms=csv replace;
 
 data TBstats (drop=SubjectN Gender TB_Symptoms Date_Symptoms);

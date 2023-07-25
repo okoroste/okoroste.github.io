@@ -1,4 +1,4 @@
-TBdata<- read.csv(file="./TB_Symptoms_Data.csv", header=TRUE, sep=",")
+TBdata<- read.csv(file="./TB_symptoms_data.csv", header=TRUE, sep=",")
 
 female.workers <- subset(TBdata, Gender=="F")
 male.workers<- subset(TBdata, Gender=="M")
