@@ -15,7 +15,7 @@
  <p>CHAPTER 3 Graphical Presentation</p>
  <p>CHAPTER 4 Confidence Intervals and Hypotheses Testing</p>
  <blockquote>
-  <p>4.1 Binomial Exact Test and Confidence Interval for Prevalence Proportion</p>
+  <p><a href="4_1_ExactBinomialTest_CI.pdf">4.1 Binomial Exact Test and Confidence Interval for Prevalence Proportion</a>&nbsp;&nbsp;&nbsp;<a href="ExactBinomialTest_CI.sas">SAS_CODE.SAS</a>&nbsp;&nbsp;&nbsp;<a href="ExactBinomialTest_CI.R">R_CODE.R</a></p>
   <p>4.2 Poisson Exact Test and Confidence Interval for Incidence Rate</p>
   <p>4.3 Confidence Intervals for Relative Risk, Odds Ratio, and Incidence Rate Ratio</p>
  </blockquote>
