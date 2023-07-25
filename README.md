@@ -10,13 +10,13 @@
   </div>
   <br>
      <img src="toc.png" style="width:550px;height:100px;"> 
- <p>CHAPTER 1  Basic Notions in Epidemiology</p>
+ <p>CHAPTER 1  Basic Terminology in Epidemiology</p>
  <p>CHAPTER 2  Key Figures in Early Epidemiology</p>
  <p>CHAPTER 3 GRAPHICAL PRESENTATION</p>
  <blockquote>
   <p>3.1 Bar Graph</p>
   <p>3.2 Histogram</p>
-  <p>3.3 Time-series plot</p>
+  <p>3.3 Time Series Plot</p>
  </blockquote>
  <p>CHAPTER 4 CONFIDENCE INTERVALS AND HYPOTHESES TESTING</p>
  <blockquote>
