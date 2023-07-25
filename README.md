@@ -14,8 +14,8 @@
  <p>CHAPTER 2  Key Figures in Early Epidemiology</p>
  <p>CHAPTER 3 GRAPHICAL PRESENTATION</p>
  <blockquote>
-   <p><a href="3_1_BarGraph.pdf">3.1 Bar Graph</a>&nbsp;&nbsp;&nbsp;<a href="BarGraph.sas">SAS_CODE.SAS</a>&nbsp;&nbsp;&nbsp;
-    <a href="BarGraph.R">R_CODE.R</a></p>
+   <p><a href="3_1_BarGraphs.pdf">3.1 Bar Graph</a>&nbsp;&nbsp;&nbsp;<a href="BarGraphs.sas">SAS_CODE.SAS</a>&nbsp;&nbsp;&nbsp;
+    <a href="BarGraphs.R">R_CODE.R</a></p>
   <p>3.2 Histogram</p>
   <p>3.3 Time Series Plot</p>
  </blockquote>
