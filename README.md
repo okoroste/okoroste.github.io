@@ -12,7 +12,12 @@
      <img src="toc.png" style="width:550px;height:100px;"> 
  <p>CHAPTER 1  Introduction: Basic notions, definitions, notation, history</p>
  <p>CHAPTER 2  Measurements of Disease Occurrence</p>
- <p>CHAPTER 3 Graphical Presentation</p>
+ <p>CHAPTER 3 GRAPHICAL PRESENTATION</p>
+ <blockquote>
+  <p>3.1 Bar Graph</p>
+  <p>3.2 Histogram</p>
+  <p>3.3 Time-series plot</p>
+ </blockquote>
  <p>CHAPTER 4 CONFIDENCE INTERVALS AND HYPOTHESES TESTING</p>
  <blockquote>
   <p><a href="4_1_ExactBinomialTest_CI.pdf">4.1 Exact Binomial Test and Confidence Interval for Prevalence Proportion</a>&nbsp;&nbsp;&nbsp;<a href="ExactBinomialTest_CI.sas">SAS_CODE.SAS</a>&nbsp;&nbsp;&nbsp;<a href="ExactBinomialTest_CI.R">R_CODE.R</a></p>
