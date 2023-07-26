@@ -38,7 +38,7 @@
    <a href="PoissonRegressionCount.R">R_CODE.R</a></p>
   <p><a href="7_3_PoissonRegressionIncidenceRate.pdf">7.3 Poisson Regression for Incidence Rate</a>&nbsp;&nbsp;&nbsp;<a href="thrombosis_data.csv">DATA_SET.CSV</a>&nbsp;&nbsp;&nbsp;<a href="PoissonRegressionIncidenceRate.sas">SAS_CODE.SAS</a>&nbsp;&nbsp;&nbsp;<a href="PoissonRegressionIncidenceRate.R">R_CODE.R</a></p>
   <p><a href="7_4_MixedEffectsNormalRegression.pdf">7.4 Mixed-effects Normal Response Regression</a>&nbsp;&nbsp;&nbsp;<a href="LDLdata.csv">DATA_SET.CSV</a>&nbsp;&nbsp;&nbsp;<a href="MixedEffectsNormalRegression.sas">SAS_CODE.SAS</a>&nbsp;&nbsp;&nbsp;<a href="MixedEffectsNormalRegression.R">R_CODE.R</a></p>
-  <p><a href="7_5_MixedEffectsLogisticPoissonRegressions.pdf">7.5 Mixed-effects Logistic and Poisson Regressions</a><br>LOGISTIC:&nbsp;<a href="respiratory_infection.csv">DATA_SET.CSV</a>&nbsp;&nbsp;&nbsp;<a href="MixedEffectsLogisticRegression.sas">SAS_CODE.SAS</a>&nbsp;&nbsp;&nbsp;<a href="MixedEffectsLogisticRegression.R">R_CODE.R</a>
+  <p><a href="7_5_MixedEffectsLogisticPoissonRegressions.pdf">7.5 Mixed-effects Logistic and Poisson Regressions</a>&nbsp;&nbsp;&nbsp;LOGISTIC:&nbsp;<a href="respiratory_infection.csv">DATA_SET.CSV</a>&nbsp;&nbsp;&nbsp;<a href="MixedEffectsLogisticRegression.sas">SAS_CODE.SAS</a>&nbsp;&nbsp;&nbsp;<a href="MixedEffectsLogisticRegression.R">R_CODE.R</a>
  &nbsp;&nbsp;&nbsp;POISSON:&nbsp;<a href="skin_cancer_data.csv">DATA_SET.CSV</a>&nbsp;&nbsp;&nbsp;<a href="MixedEffectsPoissonRegression.sas">SAS_CODE.SAS</a>&nbsp;&nbsp;&nbsp;<a href="MixedEffectsPoissonRegression.R">R_CODE.R</a> </p>
  </blockquote>
  <p>CHAPTER 8 NONPARAMETRIC REGRESSION ANALYSIS</p>
