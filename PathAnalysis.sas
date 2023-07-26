@@ -1,4 +1,4 @@
-proc import out=hypertension datafile="C:/Users/000110888/OneDrive - CSULB/Desktop/hypertension_data.csv"
+proc import out=hypertension datafile="./hypertension_data.csv"
 dbms=csv replace;
 run;
 
