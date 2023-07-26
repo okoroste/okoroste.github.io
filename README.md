@@ -19,19 +19,19 @@
    <p><a href="3_3_TimeSeriesPlot.pdf">3.3 Time Series Plot</a>&nbsp;&nbsp;&nbsp;DIABETES EXAMPLE:&nbsp;<a href="diabetes_data3.csv">DATA_SET.CSV</a>&nbsp;&nbsp;&nbsp;<a href="TimeSeriesPlot1.sas">SAS_CODE.SAS</a>&nbsp;&nbsp;&nbsp;<a href="TimeSeriesPlot1.R">R_CODE.R</a><br>
    POLLUTION EXAMPLE:&nbsp;<a href="pollution_data.csv">DATA_SET.CSV</a>&nbsp;&nbsp;&nbsp;<a href="TimeSeriesPlot2.sas">SAS_CODE.SAS</a>&nbsp;&nbsp;&nbsp;<a href="TimeSeriesPlot2.R">R_CODE.R</a></p>
  </blockquote>
- <p>CHAPTER 4 CONFIDENCE INTERVALS AND HYPOTHESES TESTING</p>
+ <p><h3>CHAPTER 4 CONFIDENCE INTERVALS AND HYPOTHESES TESTING</h3></p>
  <blockquote>
   <p><a href="4_1_ExactBinomialTest_CI.pdf">4.1 Exact Binomial Test and Confidence Interval for Prevalence Proportion</a>&nbsp;&nbsp;&nbsp;<a href="ExactBinomialTest_CI.sas">SAS_CODE.SAS</a>&nbsp;&nbsp;&nbsp;<a href="ExactBinomialTest_CI.R">R_CODE.R</a></p>
   <p><a href="4_2_ExactPoissonTest_CI.pdf">4.2 Exact Poisson Test and Confidence Interval for Incidence Rate</a>&nbsp;&nbsp;&nbsp;<a href="ExactPoissonTest_CI.sas">SAS_CODE.SAS</a>&nbsp;&nbsp;&nbsp;<a href="ExactPoissonTest_CI.R">R_CODE.R</a></p>
     <p><a href="4_3_CIs_RR_OR_IRR.pdf">4.3 Confidence Intervals for Relative Risk, Odds Ratio, and Incidence Rate Ratio</a>&nbsp;&nbsp;&nbsp;<a href="CIs_RR_OR_IRR.sas">SAS_CODE.SAS</a>&nbsp;&nbsp;&nbsp;<a href="CIs_RR_OR_IRR.R">R_CODE.R</a>&nbsp;&nbsp;&nbsp;TUBERCULOSIS EXAMPLE:&nbsp;<a href="TB_symptoms_data.csv">DATA_SET.CSV</a>&nbsp;&nbsp;&nbsp;<a href="TB_Example.sas">SAS_CODE.SAS</a>&nbsp;&nbsp;&nbsp;<a href="TB_Example.R">R_CODE.R</a></p>
  </blockquote>
- <p>CHAPTER 5 ANALYSIS OF VARIANCE</p>
+ <p><h3>CHAPTER 5 ANALYSIS OF VARIANCE</h3></p>
  <blockquote>
   <p><a href="5_1_OneWayANOVA.pdf">5.1 One-way ANOVA</a>&nbsp;&nbsp;&nbsp;<a href="OneWayANOVA.sas">SAS_CODE.SAS</a>&nbsp;&nbsp;&nbsp;<a href="OneWayANOVA.R">R_CODE.R</a></p>
   <p>5.2 Two-way ANOVA</p>
  </blockquote>
  <p>CHAPTER 6 Nonparametric Statistical Tests</p>
- <p>CHAPTER 7 REGRESSION ANALYSIS</p>
+ <p><h3>CHAPTER 7 REGRESSION ANALYSIS</h3></p>
  <blockquote>
   <p><a href="7_1_BinaryLogisticRegression.pdf">7.1 Binary Logistic Regression</a>&nbsp;&nbsp;&nbsp;<a href="pneumonia_data.csv">DATA_SET.CSV</a>&nbsp;&nbsp;&nbsp;<a href="BinaryLogisticRegression.sas">SAS_CODE.SAS</a>&nbsp;&nbsp;&nbsp;<a href="BinaryLogisticRegression.R">R_CODE.R</a></p>
   <p><a href="7_2_PoissonRegressionCount.pdf">7.2 Poisson Regression for Count Data</a>&nbsp;&nbsp;&nbsp;<a href="hospital_stay.csv">DATA_SET.CSV</a>&nbsp;&nbsp;&nbsp;<a href="PoissonRegressionCount.sas">SAS_CODE.SAS</a>&nbsp;&nbsp;&nbsp;
@@ -41,14 +41,14 @@
   <p><a href="7_5_MixedEffectsLogisticPoissonRegressions.pdf">7.5 Mixed-effects Logistic and Poisson Regressions</a>&nbsp;&nbsp;&nbsp;LOGISTIC:&nbsp;<a href="respiratory_infection.csv">DATA_SET.CSV</a>&nbsp;&nbsp;&nbsp;<a href="MixedEffectsLogisticRegression.sas">SAS_CODE.SAS</a>&nbsp;&nbsp;&nbsp;<a href="MixedEffectsLogisticRegression.R">R_CODE.R</a>
  &nbsp;&nbsp;&nbsp;POISSON:&nbsp;<a href="skin_cancer_data.csv">DATA_SET.CSV</a>&nbsp;&nbsp;&nbsp;<a href="MixedEffectsPoissonRegression.sas">SAS_CODE.SAS</a>&nbsp;&nbsp;&nbsp;<a href="MixedEffectsPoissonRegression.R">R_CODE.R</a> </p>
  </blockquote>
- <p>CHAPTER 8 NONPARAMETRIC REGRESSION ANALYSIS</p>
+ <p><h3>CHAPTER 8 NONPARAMETRIC REGRESSION ANALYSIS</h3></p>
  <blockquote>
    <p><a href="8_1_NonparametricRegressionContinuousResponse.pdf">8.1 Nonparametric Regression for Continuous Response</a><br>ONE-PREDICTOR EXAMPLE:&nbsp;<a href="Loess1Predictor.sas">SAS_CODE.SAS</a>&nbsp;&nbsp;&nbsp;<a href="Loess1Predictor.R">R_CODE.R</a>
  &nbsp;&nbsp;&nbsp;TWO-PREDICTOR EXAMPLE:&nbsp;<a href="LDL_data.csv">DATA_SET.CSV</a>&nbsp;&nbsp;&nbsp;<a href="Loess2Predictors.sas">SAS_CODE.SAS</a>&nbsp;&nbsp;&nbsp;<a href="Loess2Predictors.R">R_CODE.R</a> </p>
   <p><a href="8_2_NonparametricLogisticRegression.pdf">8.2 Nonparametric Logistic Regression</a>&nbsp;&nbsp;&nbsp;<a href="respiratory_infection.csv">DATA_SET.CSV</a>&nbsp;&nbsp;&nbsp;<a href="NonparametricLogisticRegression.sas">SAS_CODE.SAS</a>&nbsp;&nbsp;&nbsp;<a href="NonparametricLogisticRegression.R">R_CODE.R</a></p>
    <p><a href="8_3_NonparametricPoissonRegression.pdf">8.3 Nonparametric Poisson Regression</a>&nbsp;&nbsp;&nbsp;<a href="skin_cancer_data.csv">DATA_SET.CSV</a>&nbsp;&nbsp;&nbsp;<a href="NonparametricPoissonRegression.sas">SAS_CODE.SAS</a>&nbsp;&nbsp;&nbsp;<a href="NonparametricPoissonRegression.R">R_CODE.R</a></p>
  </blockquote>
- <p>CHAPTER 9 GEOSPATIAL ANALYSIS</p>
+ <p><h3>CHAPTER 9 GEOSPATIAL ANALYSIS</h3></p>
   <blockquote>
    <p><a href="9_1_ChoroplethMaps.pdf">9.1 Choropleth Maps</a>&nbsp;&nbsp;&nbsp;DATASETS FOR SAS:&nbsp;
     <a href="WestNileVirusCasesSAS.csv">1.CSV</a>&nbsp;&nbsp;&nbsp; 
@@ -61,7 +61,7 @@
     <p>9.2 Krigging</p>
     <p>9.3 Geographically-weighted Regressions</p>
   </blockquote>
- <p>CHAPTER 10 COMPARTMENTAL MODELS</p>
+ <p><h3>CHAPTER 10 COMPARTMENTAL MODELS</h3></p>
  <blockquote>
   <p><a href="10_1_DeterministicSIREpidemicModel.pdf">10.1 Deterministic SIR Epidemic Model</a>&nbsp;&nbsp;&nbsp;<a href="DeterministicSIREpidemicModel.sas">SAS_CODE.SAS</a>
    &nbsp;&nbsp;&nbsp;<a href="DeterministicSIREpidemicModel.R">R_CODE.R</a></p>
@@ -71,7 +71,7 @@
       <p><a href="10_3_BinomialSIRModelParameterEstimation.pdf">10.3 Parameter Estimation in the Binomial SIR Epidemic Model</a>&nbsp;&nbsp;&nbsp;<a href="BinomialSIRModelParameterEstimation.sas">SAS_CODE.SAS</a>
    &nbsp;&nbsp;&nbsp;<a href="BinomialSIRModelParameterEstimation.R">R_CODE.R</a></p>
  </blockquote>
- <p>CHAPTER 11 SURVIVAL ANALYSIS</p>
+ <p><h3>CHAPTER 11 SURVIVAL ANALYSIS</h3></p>
  <blockquote>
   <p><a href="11_1_KMEstimatorCurve.pdf">11.1 Kaplan-Meier Estimator and Curve</a>&nbsp;&nbsp;&nbsp;<a href="KMEstimatorCurve.sas">SAS_CODE.SAS</a>&nbsp;&nbsp;&nbsp;<a href="KMEstimatorCurve.R">R_CODE.R</a></p>
     <p><a href="11_2_LogRankTest.pdf">11.2 Log-rank Test</a>&nbsp;&nbsp;&nbsp;PNEUMONIA EXAMPLE:&nbsp;<a href="LogRankTestPneumonia.sas">SAS_CODE.SAS</a>&nbsp;&nbsp;&nbsp;<a href="LogRankTestPneumonia.R">R_CODE.R</a>&nbsp;&nbsp;&nbsp;NASOPHARYNGEAL CANCER EXAMPLE:&nbsp;<a href="nasopharyngeal_cancer_data.csv">DATA_SET.CSV</a>&nbsp;&nbsp;&nbsp;<a href="LogRankTestNasopharyngealCancer.sas">SAS_CODE.SAS</a>&nbsp;&nbsp;&nbsp;<a href="LogRankTestNasopharyngealCancer.R">R_CODE.R</a></p>
