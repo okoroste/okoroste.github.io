@@ -1,4 +1,4 @@
-proc import out=pollution datafile="./pollution.csv" dbms=csv replace;
+proc import out=pollution datafile="./pollution_data.csv" dbms=csv replace;
 
 title 'PM10 vs. PM2.5 (in micro grams/cubic meter) in Mexico City ';
 proc sgplot data=pollution;

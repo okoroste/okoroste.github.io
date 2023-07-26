@@ -1,4 +1,4 @@
-pollution.data<- read.csv(file="./pollution.csv", header=TRUE, sep=",")
+pollution.data<- read.csv(file="./pollution_data.csv", header=TRUE, sep=",")
 
 plot(as.Date(pollution.data$Date, "%m/%d/%Y"), pollution.data$PM10, type="l", 
 col="red", main="PM10 vs. PM2.5 (in micro grams/cubic meter) in Mexico City", 
