@@ -83,9 +83,9 @@
  </blockquote>
  <p>CHAPTER 12 Time Series Models</p>
  <p>CHAPTER 13 Propensity Score Matching</p>
- <p>CHAPTER 14 Structural Equation Modeling</p>
+ <p><h3>CHAPTER 14 STRUCTURAL EQUATION MODELING</h3></p>
  <blockquote>
-  <p>14.1 Path Analysis</p>
+  <p><a href="14_1_PathAnalysis.pdf">14.1 Path Analysis</a>&nbsp;&nbsp;&nbsp;<a href="hypertension_data.csv">DATA_SET.CSV</a>&nbsp;&nbsp;&nbsp;<a href="PathAnalysis.sas">SAS_CODE.SAS</a>&nbsp;&nbsp;&nbsp;<a href="PathAnalysis.R">R_CODE.R</a></p>
   <p>14.2 Mediation Analysis</p>
   <p>14.3 Confirmatory Factor Analysis</p>
  </blockquote>
