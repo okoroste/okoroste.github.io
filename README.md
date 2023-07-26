@@ -33,6 +33,7 @@
  <p><h3>CHAPTER 6 NONPARAMETRIC STATISTICAL TESTS</h3></p>
   <blockquote>
   <p><a href="6_1_WilcoxonRankSumTest.pdf">6.1 Wilcoxon Rank-Sum Test</a>&nbsp;&nbsp;&nbsp;<a href="WilcoxonRankSumTest.sas">SAS_CODE.SAS</a>&nbsp;&nbsp;&nbsp;<a href="WilcoxonRankSumTest.R">R_CODE.R</a></p>
+     <p><a href="6_2_KruskalWallisHTest.pdf">6.2 Kruskal-Wallis H-Test</a>&nbsp;&nbsp;&nbsp;<a href="KruskalWallisHTest.sas">SAS_CODE.SAS</a>&nbsp;&nbsp;&nbsp;<a href="KruskalWallisHTest.R">R_CODE.R</a></p>
  </blockquote>
  <p><h3>CHAPTER 7 REGRESSION ANALYSIS</h3></p>
  <blockquote>
