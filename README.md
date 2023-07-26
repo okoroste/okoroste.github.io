@@ -12,7 +12,7 @@
      <img src="toc.png" style="width:550px;height:100px;"> 
  <p>CHAPTER 1  Basic Terminology in Epidemiology</p>
  <p>CHAPTER 2  Key Figures in Early Epidemiology</p>
- <p><h3></h3>CHAPTER 3 GRAPHICAL PRESENTATION</h3></p>
+ <p><h3>CHAPTER 3 GRAPHICAL PRESENTATION</h3></p>
  <blockquote>
    <p><a href="3_1_BarGraphs.pdf">3.1 Bar Graphs</a>&nbsp;&nbsp;&nbsp;<a href="diabetes_data1.csv">DATA_SET.CSV</a>&nbsp;&nbsp;&nbsp;<a href="BarGraphs.sas">SAS_CODE.SAS</a>&nbsp;&nbsp;&nbsp;<a href="BarGraphs.R">R_CODE.R</a></p>
    <p><a href="3_2_Histogram.pdf">3.2 Histogram</a>&nbsp;&nbsp;&nbsp;<a href="diabetes_data2.csv">DATA_SET.CSV</a>&nbsp;&nbsp;&nbsp;<a href="Histogram.sas">SAS_CODE.SAS</a>&nbsp;&nbsp;&nbsp;<a href="Histogram.R">R_CODE.R</a></p>
