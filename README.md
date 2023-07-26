@@ -30,7 +30,10 @@
   <p><a href="5_1_OneWayANOVA.pdf">5.1 One-way ANOVA</a>&nbsp;&nbsp;&nbsp;<a href="OneWayANOVA.sas">SAS_CODE.SAS</a>&nbsp;&nbsp;&nbsp;<a href="OneWayANOVA.R">R_CODE.R</a></p>
   <p>5.2 Two-way ANOVA</p>
  </blockquote>
- <p>CHAPTER 6 Nonparametric Statistical Tests</p>
+ <p><h3>CHAPTER 6 NONPARAMETRIC STATISTICAL TESTS</h3></p>
+  <blockquote>
+  <p><a href="6_1_WilcoxonRankSumTest.pdf">6.1 Wilcoxon Rank-Sum Test</a>&nbsp;&nbsp;&nbsp;<a href="WilcoxonRankSumTest.sas">SAS_CODE.SAS</a>&nbsp;&nbsp;&nbsp;<a href="WilcoxonRankSumTest.R">R_CODE.R</a></p>
+ </blockquote>
  <p><h3>CHAPTER 7 REGRESSION ANALYSIS</h3></p>
  <blockquote>
   <p><a href="7_1_BinaryLogisticRegression.pdf">7.1 Binary Logistic Regression</a>&nbsp;&nbsp;&nbsp;<a href="pneumonia_data.csv">DATA_SET.CSV</a>&nbsp;&nbsp;&nbsp;<a href="BinaryLogisticRegression.sas">SAS_CODE.SAS</a>&nbsp;&nbsp;&nbsp;<a href="BinaryLogisticRegression.R">R_CODE.R</a></p>
