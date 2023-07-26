@@ -25,9 +25,9 @@
   <p><a href="4_2_ExactPoissonTest_CI.pdf">4.2 Exact Poisson Test and Confidence Interval for Incidence Rate</a>&nbsp;&nbsp;&nbsp;<a href="ExactPoissonTest_CI.sas">SAS_CODE.SAS</a>&nbsp;&nbsp;&nbsp;<a href="ExactPoissonTest_CI.R">R_CODE.R</a></p>
     <p><a href="4_3_CIs_RR_OR_IRR.pdf">4.3 Confidence Intervals for Relative Risk, Odds Ratio, and Incidence Rate Ratio</a>&nbsp;&nbsp;&nbsp;<a href="CIs_RR_OR_IRR.sas">SAS_CODE.SAS</a>&nbsp;&nbsp;&nbsp;<a href="CIs_RR_OR_IRR.R">R_CODE.R</a>&nbsp;&nbsp;&nbsp;TUBERCULOSIS EXAMPLE:&nbsp;<a href="TB_symptoms_data.csv">DATA_SET.CSV</a>&nbsp;&nbsp;&nbsp;<a href="TB_Example.sas">SAS_CODE.SAS</a>&nbsp;&nbsp;&nbsp;<a href="TB_Example.R">R_CODE.R</a></p>
  </blockquote>
- <p>CHAPTER 5 Analysis of Variance</p>
+ <p>CHAPTER 5 ANALYSIS OF VARIANCE</p>
  <blockquote>
-  <p>5.1 One-way ANOVA</p>
+  <p><a href="5_1_OneWayANOVA.pdf">5.1 One-way ANOVA</a>&nbsp;&nbsp;&nbsp;<a href="OneWayANOVA.sas">SAS_CODE.SAS</a>&nbsp;&nbsp;&nbsp;<a href="OneWayANOVA.R">R_CODE.R</a></p>
   <p>5.2 Two-way ANOVA</p>
  </blockquote>
  <p>CHAPTER 6 Nonparametric Statistical Tests</p>
