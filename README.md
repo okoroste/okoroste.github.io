@@ -3,7 +3,7 @@
  <div>
   <h1>STATISTICAL AND MACHINE LEARNING METHODS IN EPIDEMIOLOGY</h1>
   <h3>by Olga Korosteleva,</h3>
-  <h3>California State University, Long Beach</h3>
+  <h3><i></it>California State University, Long Beach</i></h3>
  </div>
    <div>
   <img src="cover.png" style="width:300px;height:370px;"> 
