@@ -89,20 +89,8 @@
   <p>14.2 Mediation Analysis</p>
   <p>14.3 Confirmatory Factor Analysis</p>
  </blockquote>
- <p> CHAPTER 15 Statistical Machine Learning Models</p>
+ <p> CHAPTER 15 DECISION TREE AND RANDOM FOREST MODELS</p>
   <blockquote>
   <p>15.1 Decision Tree Regression and Classification</p>
   <p>15.2 Random Forest Regression and Classification</p>
-  <p>15.2 Naive Bayes Classification</p>
-  <p>15.3 Artificial Neural Network Regression and Classification</p>
- </blockquote>
- <p>CHAPTER 16 Optimization Machine Learning Models</p>
- <blockquote>
-  <p>16.1 Extreme Gradient Boosting Regression and Classification</p>
-  <p>16.2 Support Vector Machines Regression and Classification</p>
-  <p>16.3 K-Nearest Neighbor Regression and Classification</p>
- </blockquote>
-  <p>CHAPTER 17 Recurrent Neural Network</p>
-  <p>CHAPTER 18 Convolutional Neural Network</p>
-  <p>CHAPTER 19 Natural Language Processing</p>
-</html>
+  </html>
