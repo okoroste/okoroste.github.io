@@ -1,7 +1,7 @@
 <html>
 
  <div>
-  <h1>STATISTICAL AND MACHINE LEARNING METHODS IN EPIDEMIOLOGY</h1>
+  <h1>STATISTICAL MODELS IN EPIDEMIOLOGICAL RESEARCH WITH SAS AND R APPLICATIONS</h1>
   <h3>by Olga Korosteleva,</h3>
   <h3><i>California State University, Long Beach</i></h3>
  </div>
