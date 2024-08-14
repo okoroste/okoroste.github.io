@@ -87,7 +87,7 @@
       <p><a href="10_3_BinomialSIRModelParameterEstimation.pdf">10.3 Parameter Estimation in the Binomial SIR Epidemic Model</a>&nbsp;&nbsp;&nbsp;<a href="BinomialSIRModelParameterEstimation.sas">SAS_CODE.SAS</a>
    &nbsp;&nbsp;&nbsp;<a href="BinomialSIRModelParameterEstimation.R">R_CODE.R</a></p>
  </blockquote>
-<p><h3>CHAPTER 11 Propensity Score Matching</h3></p>
+<p><h3>CHAPTER 11 PROPENSITY SCORE MATCHING</h3></p>
  <p><h3>CHAPTER 12 STRUCTURAL EQUATION MODELING</h3></p>
  <blockquote>
   <p><a href="12_1_PathAnalysis.pdf">12.1 Path Analysis</a>&nbsp;&nbsp;&nbsp;<a href="hypertension_data.csv">DATA_SET.CSV</a>&nbsp;&nbsp;&nbsp;<a href="PathAnalysis.sas">SAS_CODE.SAS</a>&nbsp;&nbsp;&nbsp;<a href="PathAnalysis.R">R_CODE.R</a></p>
