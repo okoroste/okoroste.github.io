@@ -19,9 +19,9 @@
  </blockquote>
  <p><h3>CHAPTER 2 CONFIDENCE INTERVALS AND HYPOTHESES TESTING</h3></p>
  <blockquote>
-  <p><a href="2_1_ExactBinomialTest_CI.pdf">4.1 Exact Binomial Test and Confidence Interval for Prevalence Proportion</a>&nbsp;&nbsp;&nbsp;<a href="ExactBinomialTest_CI.sas">SAS_CODE.SAS</a>&nbsp;&nbsp;&nbsp;<a href="ExactBinomialTest_CI.R">R_CODE.R</a></p>
-  <p><a href="2_2_ExactPoissonTest_CI.pdf">4.2 Exact Poisson Test and Confidence Interval for Incidence Rate</a>&nbsp;&nbsp;&nbsp;<a href="ExactPoissonTest_CI.sas">SAS_CODE.SAS</a>&nbsp;&nbsp;&nbsp;<a href="ExactPoissonTest_CI.R">R_CODE.R</a></p>
-  <p><a href="2_3_CIs_RR_OR_IRR.pdf">4.3 Confidence Intervals for Relative Risk, Odds Ratio, and Incidence Rate Ratio</a>&nbsp;&nbsp;&nbsp;<a href="CIs_RR_OR_IRR.sas">SAS_CODE.SAS</a>&nbsp;&nbsp;&nbsp;<a href="CIs_RR_OR_IRR.R">R_CODE.R</a>&nbsp;&nbsp;&nbsp;TUBERCULOSIS EXAMPLE:&nbsp;<a href="TB_symptoms_data.csv">DATA_SET.CSV</a>&nbsp;&nbsp;&nbsp;<a href="TB_Example.sas">SAS_CODE.SAS</a>&nbsp;&nbsp;&nbsp;<a href="TB_Example.R">R_CODE.R</a></p>
+  <p><a href="2_1_ExactBinomialTest_CI.pdf">2.1 Exact Binomial Test and Confidence Interval for Prevalence Proportion</a>&nbsp;&nbsp;&nbsp;<a href="ExactBinomialTest_CI.sas">SAS_CODE.SAS</a>&nbsp;&nbsp;&nbsp;<a href="ExactBinomialTest_CI.R">R_CODE.R</a></p>
+  <p><a href="2_2_ExactPoissonTest_CI.pdf">2.2 Exact Poisson Test and Confidence Interval for Incidence Rate</a>&nbsp;&nbsp;&nbsp;<a href="ExactPoissonTest_CI.sas">SAS_CODE.SAS</a>&nbsp;&nbsp;&nbsp;<a href="ExactPoissonTest_CI.R">R_CODE.R</a></p>
+  <p><a href="2_3_CIs_RR_OR_IRR.pdf">2.3 Confidence Intervals for Relative Risk, Odds Ratio, and Incidence Rate Ratio</a>&nbsp;&nbsp;&nbsp;<a href="CIs_RR_OR_IRR.sas">SAS_CODE.SAS</a>&nbsp;&nbsp;&nbsp;<a href="CIs_RR_OR_IRR.R">R_CODE.R</a>&nbsp;&nbsp;&nbsp;TUBERCULOSIS EXAMPLE:&nbsp;<a href="TB_symptoms_data.csv">DATA_SET.CSV</a>&nbsp;&nbsp;&nbsp;<a href="TB_Example.sas">SAS_CODE.SAS</a>&nbsp;&nbsp;&nbsp;<a href="TB_Example.R">R_CODE.R</a></p>
  </blockquote>
  <p><h3>CHAPTER 3 NONPARAMETRIC STATISTICAL TESTS</h3></p>
   <blockquote>
@@ -89,7 +89,7 @@
 <p><h3>CHAPTER 11 Propensity Score Matching</h3></p>
  <p><h3>CHAPTER 12 STRUCTURAL EQUATION MODELING</h3></p>
  <blockquote>
-  <p><a href="12_1_PathAnalysis.pdf">14.1 Path Analysis</a>&nbsp;&nbsp;&nbsp;<a href="hypertension_data.csv">DATA_SET.CSV</a>&nbsp;&nbsp;&nbsp;<a href="PathAnalysis.sas">SAS_CODE.SAS</a>&nbsp;&nbsp;&nbsp;<a href="PathAnalysis.R">R_CODE.R</a></p>
+  <p><a href="12_1_PathAnalysis.pdf">12.1 Path Analysis</a>&nbsp;&nbsp;&nbsp;<a href="hypertension_data.csv">DATA_SET.CSV</a>&nbsp;&nbsp;&nbsp;<a href="PathAnalysis.sas">SAS_CODE.SAS</a>&nbsp;&nbsp;&nbsp;<a href="PathAnalysis.R">R_CODE.R</a></p>
   <p>12.2 Mediation Analysis</p>
   <p>12.3 Confirmatory Factor Analysis</p>
  </blockquote>
