@@ -45,11 +45,18 @@
   <p><a href="5_2_NonparametricLogisticRegression.pdf">5.2 Nonparametric Logistic Regression</a>&nbsp;&nbsp;&nbsp;<a href="respiratory_infection.csv">DATA_SET.CSV</a>&nbsp;&nbsp;&nbsp;<a href="NonparametricLogisticRegression.sas">SAS_CODE.SAS</a>&nbsp;&nbsp;&nbsp;<a href="NonparametricLogisticRegression.R">R_CODE.R</a></p>
    <p><a href="5_3_NonparametricPoissonRegression.pdf">5.3 Nonparametric Poisson Regression</a>&nbsp;&nbsp;&nbsp;<a href="skin_cancer_data.csv">DATA_SET.CSV</a>&nbsp;&nbsp;&nbsp;<a href="NonparametricPoissonRegression.sas">SAS_CODE.SAS</a>&nbsp;&nbsp;&nbsp;<a href="NonparametricPoissonRegression.R">R_CODE.R</a></p>
  </blockquote>
-  <p> CHAPTER 6 DECISION TREE AND RANDOM FOREST MODELS</p>
+  <p><h3>CHAPTER 6 DECISION TREE AND RANDOM FOREST MODELS</h3> </p>
   <blockquote>
   <p>6.1 Decision Tree Regression and Classification</p>
   <p>6.2 Random Forest Regression and Classification</p>
- <p>CHAPTER 7 TIME SERIES MODELS</p>
+   </blockquote>
+ <p><h3>CHAPTER 7 TIME SERIES MODELS</h3></p>
+ <blockquote>
+  <p>7.1 Autoregressive Model</p>
+  <p>7.2 Autoregressive Moving Average Model</p>
+  <p>7.3 Nonparametric LOESS Curve</p>
+  <p>7.4 Nonparametric Thin Plate Spline</p>
+    </blockquote>
   <p><h3>CHAPTER 8 SURVIVAL ANALYSIS</h3></p>
  <blockquote>
   <p><a href="8_1_KMEstimatorCurve.pdf">8.1 Kaplan-Meier Estimator and Curve</a>&nbsp;&nbsp;&nbsp;<a href="KMEstimatorCurve.sas">SAS_CODE.SAS</a>&nbsp;&nbsp;&nbsp;<a href="KMEstimatorCurve.R">R_CODE.R</a></p>
@@ -79,7 +86,7 @@
       <p><a href="10_3_BinomialSIRModelParameterEstimation.pdf">10.3 Parameter Estimation in the Binomial SIR Epidemic Model</a>&nbsp;&nbsp;&nbsp;<a href="BinomialSIRModelParameterEstimation.sas">SAS_CODE.SAS</a>
    &nbsp;&nbsp;&nbsp;<a href="BinomialSIRModelParameterEstimation.R">R_CODE.R</a></p>
  </blockquote>
-<p>CHAPTER 11 Propensity Score Matching</p>
+<p><h3>CHAPTER 11 Propensity Score Matching</h3></p>
  <p><h3>CHAPTER 12 STRUCTURAL EQUATION MODELING</h3></p>
  <blockquote>
   <p><a href="12_1_PathAnalysis.pdf">14.1 Path Analysis</a>&nbsp;&nbsp;&nbsp;<a href="hypertension_data.csv">DATA_SET.CSV</a>&nbsp;&nbsp;&nbsp;<a href="PathAnalysis.sas">SAS_CODE.SAS</a>&nbsp;&nbsp;&nbsp;<a href="PathAnalysis.R">R_CODE.R</a></p>
