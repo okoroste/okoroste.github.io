@@ -14,9 +14,18 @@
  <blockquote>
    <p><a href="1_1_BarGraphs.pdf">1.1 Bar Graphs</a>&nbsp;&nbsp;&nbsp;<a href="diabetes_data1.csv">DATA_SET.CSV</a>&nbsp;&nbsp;&nbsp;<a href="BarGraphs.sas">SAS_CODE.SAS</a>&nbsp;&nbsp;&nbsp;<a href="BarGraphs.R">R_CODE.R</a></p>
    <p><a href="1_2_Histogram.pdf">1.2 Histogram</a>&nbsp;&nbsp;&nbsp;<a href="diabetes_data2.csv">DATA_SET.CSV</a>&nbsp;&nbsp;&nbsp;<a href="Histogram.sas">SAS_CODE.SAS</a>&nbsp;&nbsp;&nbsp;<a href="Histogram.R">R_CODE.R</a></p>
-   <p><a href="1_3_TimeSeriesPlot.pdf">1.3 Time Series Plot</a>&nbsp;&nbsp;&nbsp;DIABETES EXAMPLE:&nbsp;<a href="diabetes_data3.csv">DATA_SET.CSV</a>&nbsp;&nbsp;&nbsp;<a href="TimeSeriesPlot1.sas">SAS_CODE.SAS</a>&nbsp;&nbsp;&nbsp;<a href="TimeSeriesPlot1.R">R_CODE.R</a><br>
+  <p>1.3 Box Plot</p>
+   <p><a href="1_4_TimeSeriesPlot.pdf">1.4 Time Series Plot</a>&nbsp;&nbsp;&nbsp;DIABETES EXAMPLE:&nbsp;<a href="diabetes_data3.csv">DATA_SET.CSV</a>&nbsp;&nbsp;&nbsp;<a href="TimeSeriesPlot1.sas">SAS_CODE.SAS</a>&nbsp;&nbsp;&nbsp;<a href="TimeSeriesPlot1.R">R_CODE.R</a><br>
    POLLUTION EXAMPLE:&nbsp;<a href="pollution_data.csv">DATA_SET.CSV</a>&nbsp;&nbsp;&nbsp;<a href="TimeSeriesPlot2.sas">SAS_CODE.SAS</a>&nbsp;&nbsp;&nbsp;<a href="TimeSeriesPlot2.R">R_CODE.R</a></p>
- </blockquote>
+ <p><a href="1_5_ChoroplethMaps.pdf">1.5 Choropleth Maps</a>&nbsp;&nbsp;&nbsp;DATASETS FOR SAS:&nbsp;
+    <a href="WestNileVirusCasesSAS.csv">1.CSV</a>&nbsp;&nbsp;&nbsp; 
+    <a href="CA_Diabetes_by_CountySAS.csv">2.CSV</a>&nbsp;&nbsp;&nbsp; 
+    <a href="AfricaMalariaCases.csv">3.CSV</a><br>
+    DATASETS FOR R:&nbsp;
+    <a href="WestNileVirusCasesR.csv">1.CSV</a>&nbsp;&nbsp;&nbsp; 
+    <a href="CA_Diabetes_by_CountyR.csv">2.CSV</a>&nbsp;&nbsp;&nbsp; 
+    <a href="AfricaMalariaCases.csv">3.CSV</a>&nbsp;&nbsp;&nbsp;<a href="ChoroplethMaps.sas">SAS_CODE.SAS</a>&nbsp;&nbsp;&nbsp;<a href="ChoroplethMaps.R">R_CODE.R</a></p>
+  </blockquote>
  <p><h3>CHAPTER 2 CONFIDENCE INTERVALS AND HYPOTHESES TESTING</h3></p>
  <blockquote>
   <p><a href="2_1_ExactBinomialTest_CI.pdf">2.1 Exact Binomial Test and Confidence Interval for Prevalence Proportion</a>&nbsp;&nbsp;&nbsp;<a href="ExactBinomialTest_CI.sas">SAS_CODE.SAS</a>&nbsp;&nbsp;&nbsp;<a href="ExactBinomialTest_CI.R">R_CODE.R</a></p>
@@ -65,16 +74,8 @@
  </blockquote>
  <p><h3>CHAPTER 9 GEOSPATIAL ANALYSIS</h3></p>
   <blockquote>
-   <p><a href="9_1_ChoroplethMaps.pdf">9.1 Choropleth Maps</a>&nbsp;&nbsp;&nbsp;DATASETS FOR SAS:&nbsp;
-    <a href="WestNileVirusCasesSAS.csv">1.CSV</a>&nbsp;&nbsp;&nbsp; 
-    <a href="CA_Diabetes_by_CountySAS.csv">2.CSV</a>&nbsp;&nbsp;&nbsp; 
-    <a href="AfricaMalariaCases.csv">3.CSV</a><br>
-    DATASETS FOR R:&nbsp;
-    <a href="WestNileVirusCasesR.csv">1.CSV</a>&nbsp;&nbsp;&nbsp; 
-    <a href="CA_Diabetes_by_CountyR.csv">2.CSV</a>&nbsp;&nbsp;&nbsp; 
-    <a href="AfricaMalariaCases.csv">3.CSV</a>&nbsp;&nbsp;&nbsp;<a href="ChoroplethMaps.sas">SAS_CODE.SAS</a>&nbsp;&nbsp;&nbsp;<a href="ChoroplethMaps.R">R_CODE.R</a></p>
-    <p>9.2 Krigging</p>
-    <p>9.3 Geographically-weighted Regressions</p>
+    <p>9.1 Krigging</p>
+    <p>9.2 Geographically-weighted Regressions</p>
   </blockquote>
  <p><h3>CHAPTER 10 COMPARTMENTAL MODELS</h3></p>
  <blockquote>
